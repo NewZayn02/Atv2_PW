@@ -1,3 +1,5 @@
+import './style.css';
+
 const inputItem = document.querySelector("#inputItem");
 const inputQuantidade = document.querySelector("#inputQuantidade");
 const inputPreco = document.querySelector("#inputPreco");
